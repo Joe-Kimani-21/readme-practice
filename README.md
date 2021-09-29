@@ -1,10 +1,10 @@
 # readme-practice
 
 
-|Column1 |    |    |    |    |
-| :----: |:--:|:--:|:--:|:--:|
-|Column2 |    |    |    |    |
-|Column3 |    |    |    |    |
+|        |    |    |    |    |
+|--------|----|----|----|----|
+|        |    |    |    |    |
+|        |    |    |    |    |
 
 # Table of content
 [1.Description](#Description)
